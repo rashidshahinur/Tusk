@@ -9,5 +9,12 @@ chicken fry
 Beans 
 Pizza
 
+
+# ------------- NOW THERE ARE MORE CHANGES--------#
+
+rice 
+leafy vegetable
+Fish
+
 Thank you
 
